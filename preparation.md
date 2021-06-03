@@ -1,5 +1,3 @@
-
-
 # Data Structures:
 
 ## Linear Data structures
@@ -14,7 +12,7 @@
 	-	Circular Queue 
 	-	Priority Queue
 5.  Stack
-6.  Arrays
+6. [Arrays](https://www.geeksforgeeks.org/array-data-structure/?ref=ghm)
 
 ## Non Linear Data Structures
 
